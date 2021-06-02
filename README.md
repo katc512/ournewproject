@@ -1,3 +1,1 @@
 # ournewproject
-
-(Admin panels.pdf)
